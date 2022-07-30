@@ -3578,3 +3578,7 @@ strong {
 html {
   scroll-behavior: smooth;
 }
+
+header {
+  padding-top: 35px;
+}
