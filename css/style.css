@@ -3089,7 +3089,7 @@ footer.l-footer {
 }
 
 .logo {
-  width: 40%;
+  width: 50%;
 }
 
 .p-lp__ranking-body .color-ff667f {
@@ -3580,5 +3580,5 @@ html {
 }
 
 header {
-  padding-top: 35px;
+  margin-top: 35px;
 }
